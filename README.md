@@ -8,7 +8,7 @@ This project implements the Exercise 1 requirement as a single responsive bankin
 ## Screenshots
 
 ![Dashboard](images/dashboard.png)
-![Login Page](images/login.png)
+
 
 ## Technology
 
