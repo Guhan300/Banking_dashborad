@@ -1,6 +1,14 @@
+
+
+
+
 # Banking Products Dashboard
 
 This project implements the Exercise 1 requirement as a single responsive banking products dashboard.
+## Screenshots
+
+![Dashboard](images/dashboard.png)
+![Login Page](images/login.png)
 
 ## Technology
 
